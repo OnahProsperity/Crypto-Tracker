@@ -118,7 +118,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             <img src={chart} width="30" height="30" className="d-inline-block align-top" alt="" />
-            Crypt0 Track3r
+            My Crypt0 Track3r
           </a>
           {this.state.loading ? <div id="loader" className="nav-item text-nowrap d-none d-sm-none d-sm-block">Loading...</div> :
             <li className="nav-item text-nowrap d-none d-sm-none d-sm-block">
